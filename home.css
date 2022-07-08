@@ -1,0 +1,38 @@
+.main{
+    background: url("img/bg.jpg")no-repeat;
+    margin-left: 150px;
+    margin-top: -20px;
+    height: 667px;
+}
+body{
+    height: 659px;
+    background-color: #d1a17c;
+}
+h1{
+    color: #4fd9ff;
+    font-family: Jokerman;
+    margin-left: 360px;
+    padding-top: 220px;
+    text-shadow: 7px 7px 5px gray;
+}
+#container ul li{
+    background: url("img/li1.png")no-repeat;
+    margin-left: 310px;
+    height: 50px;
+    width: 50px;
+    list-style-type: none;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: -25px;
+}
+#container ul{
+    margin-top: -20px;
+}
+#container ul li a{
+    text-decoration: none;
+    font-family: "Lucida Handwriting";
+    color: #e18200;
+}
+#container ul li a:hover{
+    color: darkslateblue;
+}

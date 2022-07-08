@@ -1,0 +1,133 @@
+#nav ul{
+    float: left;
+    background-color: #c37bba;
+    border-radius: 15px;
+    margin-left: 220px;
+}
+#nav ul li{
+    float: left;
+    list-style-type: none;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+#nav ul li a{
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #2a0f0f;
+    padding: 20px;
+}
+#nav ul li a:hover{
+    background-color: #94d9de;
+    border-radius: 5px;
+}
+body{
+    height: 698px;
+    background-image: linear-gradient(#dba6ac, #802c67);
+}
+.content{
+    background: url("img/travel1.jpg")no-repeat;
+    height: 675px;
+    width: 1080px;
+    margin-left: 130px;
+    margin-top: -10px;
+    border: 15px dashed #d37a8e;
+}
+
+h1{
+    color: white;
+    text-shadow: 7px 7px 5px black;
+    float: left;
+    margin-left: 550px;
+    margin-top: -600px;
+}
+.content1{
+    background-color: #c3aab3;
+    box-shadow: 10px 10px 5px #89737a;
+    width: 300px;
+    border-radius: 150px;
+    height: 270px;
+    text-align: center;
+    padding-top: 30px;
+    float: left;
+    margin-top: -540px;
+    margin-left: 170px;
+}
+p{
+    font-family: "Lucida Handwriting";
+    font-size: 20px;
+    color: white;
+    text-shadow: 7px 7px 5px gray;
+}
+.content1 .im{
+    background: url("img/germ1.jpeg")no-repeat;
+    height: 137px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.content2{
+    background-color: #c3aab3;
+    box-shadow: 10px 10px 5px #89737a;
+    width: 300px;
+    border-radius: 150px;
+    height: 270px;
+    text-align: center;
+    padding-top: 30px;
+    float: left;
+    margin-top: -370px;
+    margin-left: 470px;
+}
+.content2 .im{
+    background: url("img/srb.jpg")no-repeat;
+    height: 137px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.content3{
+    background-color: #c3aab3;
+    box-shadow: 10px 10px 5px #89737a;
+    width: 300px;
+    border-radius: 150px;
+    height: 270px;
+    text-align: center;
+    padding-top: 30px;
+    float: left;
+    margin-top: -620px;
+    margin-left: 710px;
+}
+.content3 .im{
+    background: url("img/gre.jpg")no-repeat;
+    height: 137px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.content4{
+    background-color: #c3aab3;
+    box-shadow: 10px 10px 5px #89737a;
+    width: 300px;
+    border-radius: 150px;
+    height: 270px;
+    text-align: center;
+    padding-top: 30px;
+    float: left;
+    margin-top: -330px;
+    margin-left: 870px;
+}
+.content4 .im{
+    background: url("img/tur.jpg")no-repeat;
+    height: 137px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.extra{
+    background: url("img/plane.png")no-repeat;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-top: -690px;
+    margin-left: 160px;
+}

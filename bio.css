@@ -1,0 +1,141 @@
+body{
+    background: url("img/girl.jpg")no-repeat;
+    height: 1600px;
+    width: 900px;
+}
+h1{
+    color: #e0eddf;
+    font-size: 45px;
+    margin-left: 100px;
+    text-shadow: 7px 7px 5px black;
+    font-family: "DejaVu Serif";
+}
+.con ul{
+    list-style-type: none;
+    margin-left: 60px;
+}
+.con ul li{
+    color: #e0eddf;
+    font-size: 25px;
+    padding-bottom: 30px;
+    background: url("img/arrow1.png")no-repeat;
+    padding-left: 50px;
+    padding-top: 7px;
+    font-family: "David Libre";
+    text-shadow: 5px 5px 12px black;
+}
+#bio p{
+    font-size: 20px;
+    color: #e0eddf;
+    width: 500px;
+    margin-left: 100px;
+    padding-top: 50px;
+    text-align: justify;
+}
+.con{
+    background-color: #a97371;
+    box-shadow: 10px 10px 5px #2a0f0f;
+    width: 670px;
+    margin-left: 40px;
+    margin-top: 150px;
+    height: 800px;
+    padding-top: 70px;
+}
+#nav ul{
+    margin-top: -90px;
+    float: left;
+    background-color: #e0eddf;
+    border-radius: 15px;
+    margin-left: 40px;
+}
+#nav ul li{
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style-type: none;
+}
+#nav ul li a{
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #2a0f0f;
+    padding: 20px;
+}
+#nav ul li a:hover{
+    background-color: #a97371;
+    border-radius: 5px;
+}
+.school{
+    margin-top: 40px;
+    float: left;
+}
+.person{
+    margin-top: 5px;
+}
+.con1{
+    border-bottom: 1px solid white;
+    width: 600px;
+    margin-left: 30px;
+}
+#education{
+    background: url("img/pink.png")no-repeat;
+    height: 1000px;
+    width: 1350px;
+    margin-left: -10px;
+    margin-top: 60px;
+}
+#education h1{
+    margin-left: 550px;
+    margin-top: -900px;
+}
+.edu{
+    background: url("img/bga.png")no-repeat;
+    height: 1000px;
+    width: 1350px;
+}
+.first{
+    margin-left: 60px;
+    background-color: #a97371;
+    width: 400px;
+    text-align: center;
+    height: 700px;
+    box-shadow: 10px 10px 5px #2a0f0f;
+    padding-top: 50px;
+}
+.second{
+    float: left;
+    margin-left: 500px;
+    margin-top: -750px;
+    background-color: #a97371;
+    width: 350px;
+    text-align: center;
+    height: 700px;
+    box-shadow: 10px 10px 5px #2a0f0f;
+    padding-top: 50px;
+}
+.second h2{
+    padding-bottom: 30px;
+}
+.third{
+    float: right;
+    margin-right: 60px;
+    margin-top: -750px;
+    background-color: #a97371;
+    width: 400px;
+    text-align: center;
+    height: 700px;
+    box-shadow: 10px 10px 5px #2a0f0f;
+    padding-top: 50px;
+}
+.third h2{
+    padding-bottom: 30px;
+}
+iframe{
+    width: 350px;
+}
+.second iframe{
+    width: 290px;
+}
+.first, .second, .third{
+    color: #e0eddf;
+}
